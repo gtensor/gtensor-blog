@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# gtensor-blog
 The Blog is using by gtensor team, which is based on ghost
 =======
 <a href="https://github.com/TryGhost/Ghost"><img src="https://cloud.githubusercontent.com/assets/120485/6622822/c4c639fe-c8e7-11e4-9e64-5bec06c8b4c3.png" alt="Ghost" /></a>
@@ -118,4 +116,3 @@ New releases are announced on the [dev blog](http://dev.ghost.org/tag/releases/)
 # Copyright & License
 
 Copyright (c) 2013-2016 Ghost Foundation - Released under the [MIT license](LICENSE).
->>>>>>> 3ff677048eab11d6216475f5ee71efa6053b7e39
